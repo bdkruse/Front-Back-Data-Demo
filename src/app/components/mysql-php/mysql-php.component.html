@@ -1,0 +1,30 @@
+<h4 class="text-center"> 
+  Frontend: Angular 5<br />
+  API: PHP, Slim Framework<br />
+  Database: MySQL<br />
+</h4>
+<h5 class="text-center">Demonstrated using a form for football players</h5>
+
+
+<table class="table">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Team</th>
+      <th>Number</th>
+      <th>Position</th>
+      <th>Delete</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let player of roster">
+      <td>{{ player.playername }}</td>
+      <td>{{ player.team }}</td>
+      <td>{{ player.jerseynumber }}</td>
+      <td>{{ player.position }}</td>
+      <td><button (click)="tableDeleteButton(player)" class="btn btn-secondary">Delete</button></td>
+    </tr>
+  </tbody>  
+</table>
+<br />
+

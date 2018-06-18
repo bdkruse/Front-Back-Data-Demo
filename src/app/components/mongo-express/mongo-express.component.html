@@ -1,0 +1,32 @@
+<h4 class="text-center">Frontend: Angular 5<br />
+    API: Node, Express, Mongoose<br />
+    Database: MongoDB<br />
+</h4>
+<h5 class="text-center">Demonstrated using a book form</h5>
+
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Genre</th>
+        <th>Author</th>
+        <th>Publisher</th>
+        <th>Pages</th>
+        <th>Image</th>
+        <th>Delete</th>
+      </tr>  
+    </thead>
+    <tbody>
+      <tr *ngFor="let book of books">
+        <td>{{ book.title }}</td>
+        <td>{{ book.genre }}</td>
+        <td>{{ book.author }}</td>
+        <td>{{ book.publisher }}</td>
+        <td>{{ book.pages }}</td>
+        <td><img src="{{ book.image_url}}" alt=""></td>
+        <td><button (click)="tableDeleteButton(book)" class="btn btn-secondary">Delete</button></td>
+      </tr>
+    </tbody>
+  </table>
+<br />
+
