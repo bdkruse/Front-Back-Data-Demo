@@ -7,11 +7,11 @@ import { AppComponent } from './app.component';
 import { MysqlPhpComponent } from './components/mysql-php/mysql-php.component';
 import { MongoExpressComponent } from './components/mongo-express/mongo-express.component';
 import { MongoExpressFormComponent } from './components/mongo-express-form/mongo-express-form.component';
-import { MysqlPhpFormComponent } from './mysql-php-form/mysql-php-form.component';
+import { MysqlPhpFormComponent } from './components/mysql-php-form/mysql-php-form.component';
 import { MongoExpressService } from './components/mongo-express/mongo-express.service';
 import { MongoExpressFormService } from './components/mongo-express-form/mongo-express-form.service';
 import { MysqlPhpService } from './components/mysql-php/mysql-php.service';
-import { MysqlPhpFormService } from './mysql-php-form/mysql-php-form.service';
+import { MysqlPhpFormService } from './components/mysql-php-form/mysql-php-form.service';
 import { DataService } from './services/data.service';
 
 

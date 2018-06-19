@@ -1,6 +1,6 @@
 import { MysqlPhpFormService } from './mysql-php-form.service';
 import { Component, OnInit } from '@angular/core';
-import { DataService } from '../services/data.service';
+import { DataService } from '../../services/data.service';
 
 
 @Component({
