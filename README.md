@@ -15,8 +15,8 @@ Node
 Angular CLI
 MongoDB database
 MySQL database
-Node/Mongoose API
-PHP/Slim API
+[Node/Mongoose API](https://github.com/bdkruse/fronttoback-mongodb-express-api)
+[PHP/Slim API](https://github.com/bdkruse/fronttoback-mysql-php-api/tree/master)
 ```
 
 ### Getting Started
@@ -26,20 +26,22 @@ Install the project using npm
 ```
 npm install
 ```
-run a local server, default 4200
+run locally
 ```
 ng serve
 ```
 open in browser
-localhost:4200
+```
+http://localhost:4200
+```
 
-Get supporting API projects
-link placeholder
-link placeholder
+Install supporting API projects
+[MongoDB/Express API](https://github.com/bdkruse/fronttoback-mongodb-express-api)
+[PHP/Slim API](https://github.com/bdkruse/fronttoback-mysql-php-api/tree/master)
 
 ### [Video Demonstration](https://drive.google.com/open?id=1VAiUdyBfQ-PV9h0EgmujgxKp4Fb-DHCz)
 
 
 ### ToDo
-Add update option to tables
+Add update option to tables  
 Improve typing and input annotations
