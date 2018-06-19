@@ -13,7 +13,7 @@ export class DataService implements OnInit {
   roster = this.playerList.asObservable(); 
 
   booksUrl = 'http://localhost:3000/api/books';
-  rosterUrl = 'http://localhost/mysql-php-demo/public/football';
+  rosterUrl = 'http://localhost/fronttoback-mysql-php-api/public/football';
 
   constructor(private http: HttpClient) {
 

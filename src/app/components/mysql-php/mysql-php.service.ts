@@ -8,7 +8,7 @@ import { HttpClient } from '@angular/common/http';
 @Injectable()
 export class MysqlPhpService {
 
-  url = "http://localhost/mysql-php-demo/public/football";
+  url = "http://localhost/fronttoback-mysql-php-api/public/football";
   constructor(private http: HttpClient, private data: DataService) { }
 
   deletePlayer(playerToDelete) {
