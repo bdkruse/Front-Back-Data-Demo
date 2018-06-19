@@ -26,17 +26,17 @@ Install the project using npm
 ```
 npm install
 ```
-run locally
+Run the project
 ```
 ng serve
 ```
-open in browser
+Open in browser
 ```
 http://localhost:4200
 ```
 
-Install supporting API projects
-[MongoDB/Express API](https://github.com/bdkruse/fronttoback-mongodb-express-api)
+Install supporting API projects  
+[MongoDB/Express API](https://github.com/bdkruse/fronttoback-mongodb-express-api)  
 [PHP/Slim API](https://github.com/bdkruse/fronttoback-mysql-php-api/tree/master)
 
 ### [Video Demonstration](https://drive.google.com/open?id=1VAiUdyBfQ-PV9h0EgmujgxKp4Fb-DHCz)
