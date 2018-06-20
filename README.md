@@ -13,12 +13,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ```
 Node
 Angular CLI
-[MongoDB](https://www.mongodb.com/download-center?#community)
+MongoDB - https://www.mongodb.com/download-center?#community
 Web Server/Stack supporting MySQL and PHP:
 LAMP https://bitnami.com/stack/lamp/installer
 WAMP http://www.wampserver.com/en/
-[Express/Mongoose API](https://github.com/bdkruse/fronttoback-mongodb-express-api)
-[PHP/Slim API](https://github.com/bdkruse/fronttoback-mysql-php-api/tree/master)
+Express/Mongoose API - https://github.com/bdkruse/fronttoback-mongodb-express-api
+PHP/Slim API - https://github.com/bdkruse/fronttoback-mysql-php-api/tree/master
 ```
 
 ### Getting Started
