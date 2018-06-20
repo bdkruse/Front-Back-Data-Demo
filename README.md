@@ -35,7 +35,7 @@ http://localhost:4200
 
 Install supporting API projects  
 [MongoDB/Express API](https://github.com/bdkruse/fronttoback-mongodb-express-api)  
-[PHP/Slim API](https://github.com/bdkruse/fronttoback-mysql-php-api/tree/master)
+[PHP/Slim/MySQL API](https://github.com/bdkruse/fronttoback-mysql-php-api/tree/master)
 
 ### [Video Demonstration](https://drive.google.com/open?id=1VAiUdyBfQ-PV9h0EgmujgxKp4Fb-DHCz)
 
