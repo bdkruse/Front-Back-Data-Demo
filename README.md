@@ -20,7 +20,7 @@ PHP/Slim API - https://github.com/bdkruse/fronttoback-mysql-php-api/tree/master
 ### Getting Started
 Download or clone this repository
 
-From the terminal, install the project using npm
+Open your terminal or command line and navigate to the root directory. Install the project using npm
 ```
 npm install
 ```
