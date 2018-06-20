@@ -4,7 +4,7 @@ This project demonstrates form input and display using a variety of different te
 This project is the frontend component of a multi-part project. 
 
 Frontend - Angular 5  
-APIs - Node/Mongoose, PHP/Slim  
+APIs - Node/Express/Mongoose, PHP/Slim  
 Database -  MongoDB, MySQL  
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
@@ -13,16 +13,18 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ```
 Node
 Angular CLI
-MongoDB database
-MySQL database
-[Node/Mongoose API](https://github.com/bdkruse/fronttoback-mongodb-express-api)
+[MongoDB](https://www.mongodb.com/download-center?#community)
+Web Server/Stack supporting MySQL and PHP:
+LAMP https://bitnami.com/stack/lamp/installer
+WAMP http://www.wampserver.com/en/
+[Express/Mongoose API](https://github.com/bdkruse/fronttoback-mongodb-express-api)
 [PHP/Slim API](https://github.com/bdkruse/fronttoback-mysql-php-api/tree/master)
 ```
 
 ### Getting Started
 Download or clone this repository
 
-Install the project using npm
+From the terminal, install the project using npm
 ```
 npm install
 ```
