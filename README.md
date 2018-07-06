@@ -1,11 +1,11 @@
 # Front to Back Data Demo
 
 This project demonstrates form input and display using a variety of different technologies.
-This project is the frontend component of a multi-part project. 
+This project is the frontend component of the front to back data demo. The API component projects are listed in the prerequisites. Be sure to install them to get the functionality shown in the video demonstration.
 
-Frontend - Angular 5  
+Frontend - Angular 2
 APIs - Node/Express/Mongoose, PHP/Slim  
-Database -  MongoDB, MySQL  
+Databases -  MongoDB, MySQL  
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
@@ -39,7 +39,3 @@ Install supporting API projects
 
 ### [Video Demonstration](https://drive.google.com/open?id=1VAiUdyBfQ-PV9h0EgmujgxKp4Fb-DHCz)
 
-
-### ToDo
-Add update option to tables  
-Improve typing and input annotations
